@@ -39,7 +39,7 @@ https://haseebjaved4212.github.io/Gsap-Portfolio-Template/
 https://github.com/haseebjaved4212/Gsap-Portfolio-Template.git
 ## 3. Simple Portfolio Template
 **- live demo:**
-https://haseebjaved4212.github.io/Simple-Portfolio-Template/
+https://haseebjaved4212.github.io/Simple-Portfolio-Templete/
 
 
 **- Source Code:**
