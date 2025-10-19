@@ -32,11 +32,11 @@ https://github.com/haseebjaved4212/Animated-Portfolio-template.git
 
 ## 2. Gsap Portfolio Template
 **- live demo:**
-https://haseebjaved4212.github.io/Gsap-Portfolio-Template/
+https://haseebjaved4212.github.io/Gsap-Portfolio/
 
 
 **- Source Code:**
-https://github.com/haseebjaved4212/Gsap-Portfolio-Template.git
+https://github.com/haseebjaved4212/Gsap-Portfolio.git
 ## 3. Simple Portfolio Template
 **- live demo:**
 https://haseebjaved4212.github.io/Simple-Portfolio-Templete/
